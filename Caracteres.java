@@ -5,6 +5,7 @@ public class Caracteres {
         char numeroChar = '5';
 
         System.out.println("letra =" + letra);
-      
+        System.out.println("simbolo =" + simbolo);
+        
     }
 }
