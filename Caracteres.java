@@ -6,6 +6,6 @@ public class Caracteres {
 
         System.out.println("letra =" + letra);
         System.out.println("simbolo =" + simbolo);
-        
+        System.out.println("numeroChar =" + numeroChar);
     }
 }
